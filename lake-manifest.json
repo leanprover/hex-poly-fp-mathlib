@@ -43,10 +43,10 @@
       "type": "git",
       "subDir": null,
       "scope": "",
-      "rev": "1ca7698307ed776c90e1cd796527d432913bd518",
+      "rev": "da25459d8ebb26693edfcc70a9217fa6a5c1a1eb",
       "name": "HexPolyFp",
       "manifestFile": "lake-manifest.json",
-      "inputRev": "1ca7698307ed776c90e1cd796527d432913bd518",
+      "inputRev": "da25459d8ebb26693edfcc70a9217fa6a5c1a1eb",
       "inherited": false,
       "configFile": "lakefile.toml"
     },
@@ -181,6 +181,18 @@
       "inputRev": "ea246536c442464a68210ecce973eb7708968f59",
       "inherited": true,
       "configFile": "lakefile.lean"
+    },
+    {
+      "url": "https://github.com/leanprover/hex-basic.git",
+      "type": "git",
+      "subDir": null,
+      "scope": "",
+      "rev": "da8a864cd17ccca780d8c76af403e88585bc4734",
+      "name": "HexBasic",
+      "manifestFile": "lake-manifest.json",
+      "inputRev": "da8a864cd17ccca780d8c76af403e88585bc4734",
+      "inherited": true,
+      "configFile": "lakefile.toml"
     }
   ],
   "name": "\u00abhex-poly-fp-mathlib\u00bb",
